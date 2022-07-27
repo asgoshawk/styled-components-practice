@@ -9,14 +9,17 @@ const Header = () => {
       <Container>
         <Nav>
           <Logo src="./images/logo.svg" alt="" />
-          <Button>Try It Free</Button>
+          <Button>馬上加入</Button>
         </Nav>
         <Flex>
           <div>
-            <h1>Title</h1>
-            <p>text here</p>
+            <h1>建立屬於自己的社群平台!</h1>
+            <p>
+              想要尋找合適的平台經營自己的粉絲社群嗎？Huddle
+              提供免費的雲端服務，為您的社群迅速打造方便的溝通平台，增進粉絲們間的交流並卓越壯大！
+            </p>
             <Button bg="#ff0099" color="#fff">
-              Get Started For Free
+              開始免費體驗
             </Button>
           </div>
 
